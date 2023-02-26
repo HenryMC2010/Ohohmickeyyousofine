@@ -1,0 +1,23 @@
+*{
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    border-radius: 10px;
+}
+
+.darkmode{
+    padding: 10px 10px;
+    position: absolute;
+    display: flex;
+    margin-top: 5vh;
+}
+.body{
+    transition: s5s;
+}
